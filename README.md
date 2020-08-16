@@ -22,3 +22,5 @@ git clone https://github.com/erarvin2007/morse-code
 cd morse-code/
 python3 morse_code.py
 ```
+
+Support: erarvin2007@gmail.com
