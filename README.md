@@ -2,7 +2,7 @@
 
 Ever find yourself in a movie, or lost at sea with nothing but your computer with Python installed on it? Fear not. Morse Code Translator will help you send any message you want with just dits(•) and dahs(-)!
 
-# Requirements
+### Requirements
 - Python 3
 
 ### Functionality
