@@ -2,6 +2,9 @@
 
 Ever find yourself in a movie, or lost at sea with nothing but your computer with Python installed on it? Fear not. Morse Code Translator will help you send any message you want with just dits(•) and dahs(-)!
 
+# Requirements
+- Python 3
+
 ### Functionality
 - Translation from ABC to Morse Code
 - Translation from Morse Code to ABC
@@ -9,14 +12,14 @@ Ever find yourself in a movie, or lost at sea with nothing but your computer wit
 
 ### Instructions
 
-#### Windows/MacOS
+#### Windows
 ```
 git clone https://github.com/erarvin2007/morse-code
 cd morse-code/
-python morse_code.py
+python -m morse_code.py
 ```
 
-#### Linux/Unix
+#### MacOS/Linux/Unix
 ```
 git clone https://github.com/erarvin2007/morse-code
 cd morse-code/
